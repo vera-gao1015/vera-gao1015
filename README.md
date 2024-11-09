@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Vera Gao from Northeastern University taking Information Systems-Bridge. 
+- 👋 Hi, I'm Wei(Vera) Gao from Northeastern University taking Information Systems-Bridge. 
 - 🌱 I’m currently a code-beginner.... Keep on moving~
 
 <!---
